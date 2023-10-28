@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gen_pdf/static/css/main.6ccd65a8.css",
+    "main.js": "/gen_pdf/static/js/main.e74100dd.js",
+    "static/js/703.e45d6ed1.chunk.js": "/gen_pdf/static/js/703.e45d6ed1.chunk.js",
+    "static/js/825.bcdebd7b.chunk.js": "/gen_pdf/static/js/825.bcdebd7b.chunk.js",
+    "static/js/787.ed0e675d.chunk.js": "/gen_pdf/static/js/787.ed0e675d.chunk.js",
+    "static/media/image_1.webp": "/gen_pdf/static/media/image_1.7cb97ad4f0bb7e1f07f5.webp",
+    "index.html": "/gen_pdf/index.html",
+    "main.6ccd65a8.css.map": "/gen_pdf/static/css/main.6ccd65a8.css.map",
+    "main.e74100dd.js.map": "/gen_pdf/static/js/main.e74100dd.js.map",
+    "703.e45d6ed1.chunk.js.map": "/gen_pdf/static/js/703.e45d6ed1.chunk.js.map",
+    "825.bcdebd7b.chunk.js.map": "/gen_pdf/static/js/825.bcdebd7b.chunk.js.map",
+    "787.ed0e675d.chunk.js.map": "/gen_pdf/static/js/787.ed0e675d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ccd65a8.css",
+    "static/js/main.e74100dd.js"
+  ]
+}
